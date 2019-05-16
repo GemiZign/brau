@@ -1,0 +1,55 @@
+
+body {
+  background-image: url("../img/leaves.png");
+}
+
+/* .masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+} */
+
+header{
+  padding-bottom:25px;
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#Prin {
+  background-color: rgb(108, 212, 222);
+  color: #fff;
+  border-radius: 2px;
+  padding: 15px;
+  margin: 30px;
+  text-align: justify;
+}
+
+#footer {
+  background-color: rgb(26, 62, 88);
+  color: #fff;
+  padding: 50px 0px;
+  justify-content: center;
+}
+
+.eje-izq{
+  background-color:rgb(6, 187, 149);
+  padding: 50px;
+  color:white;
+}
+
+.eje-der{
+  background-image: url('../img/eje1.jpg') ;
+  padding: 50px;
+  text-align: justify;
+  color: white;
+}
