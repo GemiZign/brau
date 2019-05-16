@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background-image: url("../img/leaves.png");
@@ -52,4 +55,8 @@ header{
   padding: 50px;
   text-align: justify;
   color: white;
+}
+
+img {
+  width: 100%;
 }
